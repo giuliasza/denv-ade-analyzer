@@ -7,7 +7,7 @@ Nosso objetivo é construir uma aplicação de nível intermediário que analise
 
 ## 👩‍💻 A Dupla (DENV_Duo)
 * **Desenvolvimento e Arquitetura Python:** Maria Giulia Martins
-* **Regras Biológicas e Validação Científica:** Raissa
+* **Regras Biológicas e Validação Científica:** Raissa Alves Teixeira Pinto
 
 ## 🛠️ Tecnologias Utilizadas
 * `Python 3.x`
@@ -15,4 +15,4 @@ Nosso objetivo é construir uma aplicação de nível intermediário que analise
 * `Pandas` (Leitura de metadados e arquivos de anotação)
 
 ---
-*Status: Em desenvolvimento (Checkpoint 2)* 
+*Status: Em desenvolvimento (Checkpoint 2)*
