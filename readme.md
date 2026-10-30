@@ -15,4 +15,4 @@ Nosso objetivo é construir uma aplicação de nível intermediário que analise
 * `Pandas` (Leitura de metadados e arquivos de anotação)
 
 ---
-*Status: Em desenvolvimento (Checkpoint 1)* 🚀
+*Status: Em desenvolvimento (Checkpoint 2)* 
